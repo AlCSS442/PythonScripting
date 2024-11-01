@@ -1,1 +1,1 @@
-### You will need your own API key for Shodan. Simply just create an account with them and access your API credentials via Account.hfh
+### You will need your own API key for Shodan. Simply just create an account with them and access your API credentials via Account.
